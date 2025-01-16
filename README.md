@@ -1,5 +1,15 @@
 # project
 
+## Setup - 
+npm install 
+# run api in terminal by using this 
+json-server db.json --port 3000
+
+# run server on other terminal by 
+
+npm run serve
+
+
 ## Project setup
 ```
 npm install
