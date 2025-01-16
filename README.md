@@ -9,6 +9,10 @@ json-server db.json --port 3000
 
 npm run serve
 
+## Login Credentials 
+Login id - test@example.com
+password - password123
+
 
 ## Project setup
 ```
