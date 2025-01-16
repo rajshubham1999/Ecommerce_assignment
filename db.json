@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://static.iodparts.com/img/product_images/ATF16V8B15PU.jpg",
+      "description": "Product 1 description",
+      "availability": "In Stock",
+      "price": 100,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "image": "https://static.iodparts.com/img/product_images/1N4742A.jpg",
+      "description": "Product 2 description",
+      "availability": "Out of Stock",
+      "price": 200,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "image": "https://static.iodparts.com/img/product_images/OPT101P.jpg",
+      "description": "Product 3 description",
+      "availability": "In Stock",
+      "price": 150,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "image": "https://static.iodparts.com/img/product_images/LXMLPM010100.JPG",
+      "description": "Product 4 description",
+      "availability": "In Stock",
+      "price": 50,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "image": "https://static.iodparts.com/img/product_images/C0805C104K5RACTU.jpg",
+      "description": "Product 5 description",
+      "availability": "In Stock",
+      "price": 130,
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "image": "https://static.iodparts.com/img/product_images/AT80C51RD2RLTUM-0.jpg",
+      "description": "Product 6 description",
+      "availability": "In Stock",
+      "price": 50,
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "image": "https://static.iodparts.com/img/rendered/embedded-microcontrollers/28-dip.jpg",
+      "description": "Product 7 description",
+      "availability": "Out of Stock",
+      "price": 150,
+      "quantity": 0
+    },
+    {
+      "id": 8,
+      "image": "https://static.iodparts.com/img/product_images/94HAB16WT.jpg",
+      "description": "Product 8 description",
+      "availability": "In Stock",
+      "price": 120,
+      "quantity": 0
+    }
+  ]
+}
